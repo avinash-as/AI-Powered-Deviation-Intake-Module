@@ -8,7 +8,7 @@ Workflow: **Deviation document/text → AI extraction → Log Deviation form →
 - AI: LangGraph + Groq (`llama-3.3-70b-versatile` default, `gemma2-9b-it` also works) with heuristic fallback when no key is set
 - DB: PostgreSQL (docker) or SQLite for quick local run
 
-## Quick start (no Docker, fastest for demo)
+## Quick start
 
 Backend:
 ```bash
@@ -51,6 +51,3 @@ docker compose up --build
 - `POST /api/deviations` → save (requires title)
 - `GET /health` → groq configured? model?
 
-## Notes
-- Do NOT push this to a public GitHub repo per assignment instructions — submit via the Google Form.
-- Groq models: `llama-3.3-70b-versatile` (default) or `gemma2-9b-it` via `GROQ_MODEL` env.
