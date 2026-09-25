@@ -1,0 +1,18 @@
+Subject: Temperature excursion during drying — Batch API-2026-042
+Date: 2026-09-20
+From: R. Sharma (Production) <r.sharma@pharma.example>
+To: QA Deviations <qa@pharma.example>
+
+Hi QA team,
+
+During the drying stage of Atorvastatin API Batch API-2026-042 in Reactor R-204 (drying oven D-11), the temperature went outside the approved range.
+
+Approved range: 60-65 C
+Observed: 78 C sustained for approximately 40 minutes (14:20-15:00).
+
+The steam inlet valve is suspected to have stuck open. The batch has been put ON HOLD and the dryer printout retained.
+
+Please log a deviation and advise on impact and batch disposition.
+
+Thanks,
+Ravi

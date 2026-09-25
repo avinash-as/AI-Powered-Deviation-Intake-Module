@@ -1,0 +1,13 @@
+# Unpinned for Python 3.14 wheel support (sqlite demo path; add psycopg[binary] only if you need Postgres)
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-multipart
+langgraph
+langchain-core
+langchain-groq
+groq
+pypdf
+python-dateutil

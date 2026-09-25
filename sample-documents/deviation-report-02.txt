@@ -1,0 +1,11 @@
+DEVIATION REPORT (shop-floor note)
+Date observed: 2026-09-22 | Observed by: Priya Nair, QC
+Department: Quality Control | Product: Metformin HCl API | Batch: MET-2026-118
+Stage: Final filtration | Equipment: Filter press FP-02
+
+Description: Analyst noticed a pH reading of 8.9 against the approved range of 6.8-7.2 during in-process checking. Filtration was paused. No other batches affected.
+
+Immediate action: Equipment quarantined, second analyst verified reading, QA notified.
+Suspected cause: Uncalibrated pH probe (last calibration overdue by 6 days).
+
+Request: log deviation, assess severity/impact, decide on CAPA.
